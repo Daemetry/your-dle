@@ -1,1 +1,3 @@
-# project-course-2024
+# [YOUR]dle
+
+## A platform for creating and sharing your own wordle-style games!
